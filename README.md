@@ -14,5 +14,5 @@ $ npm link
 $ pbp --help
 $ pbp install <boilerplate> <directory name>
 $ pbp list 
-$ pbp generate <type> <directory name> 
+$ pbp generate <type> <file name> 
 ```
