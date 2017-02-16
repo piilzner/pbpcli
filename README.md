@@ -1,2 +1,2 @@
 # pbpcli
-pbp cli
+cli tool for creating pbp boilerplates
