@@ -12,7 +12,7 @@ $ npm link
 ## Usage
 ```
 $ pbp --help
-$ pbp install <boilerplate> <name>
+$ pbp install <boilerplate> <directory name>
 $ pbp list 
-$ pbp generate <type> <name> 
+$ pbp generate <type> <directory name> 
 ```
