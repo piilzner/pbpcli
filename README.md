@@ -1,2 +1,18 @@
 # pbpcli
-cli tool for creating pbp boilerplates
+cli tool for installing pbp [boilerplates](https://github.com/piilzner/pbp)
+
+## Installation
+```
+$ git clone https://github.com/piilzner/pbpcli.git
+$ cd pbpcli
+$ npm install
+$ npm link
+```
+
+## Usage
+```
+$ pbp --help
+$ pbp install <boilerplate> <name>
+$ pbp list 
+$ pbp generate <type> <name> 
+```
